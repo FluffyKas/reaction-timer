@@ -2,4 +2,4 @@
 
 Vue practice
 
-[Live site]
+[Live site](https://reaction-timer-kas.netlify.app)
